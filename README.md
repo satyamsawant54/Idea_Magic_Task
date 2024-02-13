@@ -19,7 +19,7 @@
 
 # jsonwebtoken and bcrypt for basic auenthications and hashing password.
 
-# Middleware and ErrorHnadler :-
+# Middleware and ErrorHandler :-
 
 #I had used express for middleware and also done error handling and auth middleware for the accessing the user's tokens.
 
