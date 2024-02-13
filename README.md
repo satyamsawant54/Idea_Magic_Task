@@ -15,7 +15,6 @@
 
 # .ENV :-
 #PORT=5000
-#NODE_ENV=development
-#JWT_SECRET=fwpMeJf36POk6yJ
+#NODE_ENV=development  &  #JWT_SECRET=fwpMeJf36POk6yJ
 
                     
