@@ -12,4 +12,11 @@
 # Chakra UI for desigining the Login and Register form components.....
 
 # MongoDB Atlas as a Database with the strongful schemas.......
+
+# .ENV :-
+#PORT=5000
+#NODE_ENV=development
+#MONGO_URI=mongodb+srv://satyam:123@cluster0.mhmfhbx.mongodb.net/Idea_Magic_Task?retryWrites=true&w=majority
+#JWT_SECRET=fwpMeJf36POk6yJ
+
                     
