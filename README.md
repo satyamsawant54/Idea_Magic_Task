@@ -17,4 +17,6 @@
 #PORT=5000
 #NODE_ENV=development  &  #JWT_SECRET=fwpMeJf36POk6yJ
 
+#jsonwebtoken and bcrypt for basic auenthications and hashing password.
+
                     
